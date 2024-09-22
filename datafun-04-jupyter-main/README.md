@@ -13,4 +13,6 @@ py -m pip freeze > requirements.txt
 
 Git Add / Commit / Push
 
-git add . git commit -m "add .gitignore, commands to README.md" git push -u origin main
+git add . 
+git commit -m "add .gitignore, commands to README.md" 
+git push -u origin main
