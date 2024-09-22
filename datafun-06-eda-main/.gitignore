@@ -5,3 +5,6 @@
 
 # Visual Studio Code settings and workspace
 .vscode/
+
+Jupyter notebook checkbpionts folder
+.ipynb_checkpoints/

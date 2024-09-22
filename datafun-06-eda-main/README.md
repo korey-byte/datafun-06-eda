@@ -4,7 +4,8 @@ Core Competency: Start a new Project & Create and Manage a Local Project Virtual
 
 Create and Activate Project Virtual Environment
 
-python3 -m venv .venv source .venv\bin\Activate
+python3 -m venv .venv 
+source .venv/bin/activate
 
 Install Dependencies
 
